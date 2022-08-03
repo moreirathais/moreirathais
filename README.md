@@ -2,7 +2,6 @@
 
 < Estudante de desenvolvimento Web />
 
-< Em transição de carreira />
 
 < Bootcamp Laboratória SAP007 />
 
